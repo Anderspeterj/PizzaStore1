@@ -8,8 +8,7 @@ namespace PizzaStore
     {
 
         static void Main(string[] args)
-        {
-
+        { 
 
             Store.Start();
             Console.ReadKey(); 
